@@ -8,7 +8,7 @@
         private string cMemory = "4Gb";
         public string cType = "Laptop";
         public string fName = "Sushil";
-
+        public string lName = "Godyial";
     }
     public class Assembly1BaseClass
     {
